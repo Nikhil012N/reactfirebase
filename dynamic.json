@@ -1,0 +1,61 @@
+{
+  "fromdata": [
+    {
+      "name": "firstname",
+      "label": "Firstname",
+      "type": "text",
+      "placeholder": "Enter your firstname"
+    },
+    {
+      "name": "lastname",
+      "label": "Lastname",
+      "type": "text",
+      "placeholder": "Enter your lastname"
+      
+    },
+    {
+      "name": "email",
+      "label": "Email",
+      "type": "email",
+      "placeholder": "Enter your email id"
+      
+    },
+    {
+      "name": "age",
+      "label": "Age",
+      "type": "text",
+      "placeholder": "Enter your age"
+     
+    },
+    { 
+      "name": "contact",
+      "label": "Contact",
+      "type": "text",
+      "placeholder": "Enter your contact details"
+    },
+    {
+      "name": "address",
+      "label": "Address",
+      "type": "text",
+      "placeholder": "Enter your address here"  
+    },
+    {
+      "name": "gender",
+      "label": "Gender",
+      "type": "radio",
+      "options": ["Male","Female"]
+    },
+    {
+      "name": "profession",
+      "label": "Profession",
+      "type": "select",
+      "options": ["Frontend Developer","Backend Developer","FullStack Developer"]
+    },
+    {
+      "name": "interest",
+      "label": "Interest",
+      "type": "checkbox",
+      "options": ["PHP","JAVASCRIPT","JAVA","PYTHON"]
+    }
+  ]
+}

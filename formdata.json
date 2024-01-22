@@ -1,0 +1,34 @@
+{
+  "dynamicformdata": [
+    {
+      "firstname": "Ankit",
+      "lastname": "Kumar",
+      "age": 23,
+      "email": "ankit@ggf.ff",
+      "contact": 9876543210,
+      "address": "ankitpur",
+      "gender": "Male",
+      "interest": [
+        "PHP",
+        "PYTHON"
+      ],
+      "profession": "Backend Developer",
+      "id": 1
+    },
+    {
+      "firstname": "ajay",
+      "lastname": "yaja",
+      "age": "42",
+      "email": "moc.liamg@yaja",
+      "contact": "0987654321",
+      "address": "rupyaja",
+      "gender": "Male",
+      "interest": [
+        "PHP",
+        "JAVASCRIPT"
+      ],
+      "profession": "FullStack Developer",
+      "id": 2
+    }
+  ]
+}
